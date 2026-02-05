@@ -1,1 +1,6 @@
-# ipo-automation
+pandas
+requests
+beautifulsoup4
+lxml
+openpyxl
+OpenDartReader
